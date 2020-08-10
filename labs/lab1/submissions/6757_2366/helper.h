@@ -1,0 +1,1 @@
+int check_equality(char* a, char* b);

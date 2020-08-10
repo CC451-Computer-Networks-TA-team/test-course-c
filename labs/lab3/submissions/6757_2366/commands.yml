@@ -1,0 +1,1 @@
+compile: "gcc main.c helper.c -o a.out"

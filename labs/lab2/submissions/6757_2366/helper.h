@@ -1,0 +1,1 @@
+int fail_if_matches(int a, int matches[]);
